@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wbnaq9.kujang138gold.online/sitemap.xml
